@@ -1,0 +1,4 @@
+1)sticky Nav
+2)scrolling links with smooth behavior
+3)implement rating stars at(Testimonials)
+4)implemnt playlist
